@@ -632,7 +632,7 @@ l₁ | l₂ | m₁ | m₂ |     analytical |      numerical
     &= \int_{0}^{2\pi}~\mathrm{d}\varphi \int_{0}^{\pi}~\mathrm{d}\theta  ~ \frac{l(l+1)}{2I} |\psi_{lm}(\theta,\varphi)|^2
   \end{aligned}
 ```
-where $l$ is angular momentum quantum number and $I$ is the moment of intertia.
+where $l$ is angular momentum quantum number and $I$ is the moment of inertia.
 ```
  m₁ |  m₂ |  R  |  l  |       analytical  |      numerical 
 --- | --- | --- | --- | -------------- | -------------- 
